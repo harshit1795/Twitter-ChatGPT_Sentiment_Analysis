@@ -5,3 +5,6 @@ Kindly refer to the following three files:
 2. ChatGPTModule.ipynb - Python Code to interact with ChatGPT utilizing Prompt Engineering.
 
 3. Twitter_ETL_py.py  - DAG file for Airflow. This should be saved in your Airflow folder inside dag in order for Airflow to detect the DAG.
+
+Also, I've used my own API keys for ChatGPT & Twitter which are disabled now. 
+Please create your own tokens, Keys and replace the same in the code respectively.
