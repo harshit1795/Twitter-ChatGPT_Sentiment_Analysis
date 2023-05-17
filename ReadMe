@@ -1,0 +1,7 @@
+Kindly refer to the following three files:
+
+1. Twitter ETL.ipynb. - Python Code to retireve Tweets data using Tweepy package.
+
+2. ChatGPTModule.ipynb - Python Code to interact with ChatGPT utilizing Prompt Engineering.
+
+3. Twitter_ETL_py.py  - DAG file for Airflow. This should be saved in your Airflow folder inside dag in order for Airflow to detect the DAG.
